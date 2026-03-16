@@ -1,6 +1,6 @@
 # Supply Chain Risk Predictor
 
-Predicts late-delivery risk for supply chain shipments using the DataCo Smart Supply Chain dataset (180k+ orders). Ships a trained XGBoost model behind a FastAPI REST API and a Streamlit analytics dashboard.
+This project was built end-to-end using Claude Code, with AI assistance across every phase — EDA, feature engineering, model training, API development, and dashboard design. This project predicts late-delivery risk for supply chain shipments using the DataCo Smart Supply Chain dataset (180k+ orders). Ships a trained XGBoost model behind a FastAPI REST API and a Streamlit analytics dashboard. 
 
 ---
 
